@@ -1,0 +1,161 @@
+*{
+    padding: 0px;
+    margin: opx;
+}
+
+html{
+    background: rgb(249, 211, 230);
+}
+
+.TituloV{
+    height: 50px;
+    text-align: center;
+}
+
+.CurriculumPhoto{
+    float: left;
+    margin-right: 10px;
+    background-color:rgb(252, 184, 219) ;
+}
+
+.DatosP{
+    display: flex;
+    height: 25px;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: red;
+    margin-bottom: 8px;
+}
+
+.DatosdeP{
+    display: flow-root;
+    height: 138px;
+    background-color: rgb(226, 226, 226);
+}
+
+.espacio{
+    display: flex;
+    justify-content: left;
+    margin-left: 10px;
+}
+
+.espacio:nth-child(1){
+    display: flex;
+    justify-content: left;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.ExpLab{
+    height: 25px;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: red;
+}
+
+.DatosExp{
+    height: 25px;
+    background-color: rgb(226, 226, 226);
+}
+
+.espacio2{
+    display: flex;
+    justify-content: left;
+    margin-left: 10px;
+}
+
+.EducaFor{
+    height: 25px;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: red;
+}
+
+.DatosEducaFor{
+    height: 65px;
+    background-color: rgb(226, 226, 226);
+}
+
+.espacio3{
+    display: flex;
+    justify-content: left;
+    margin-left: 10px;
+}
+
+.TituloC{
+    height: 30px;
+    text-align: center;
+    background-color: rgb(194, 194, 194);
+}
+
+.Capaci1{
+    height: 25px;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: red;
+}
+
+.DatosCapaci1{
+    height: 25px;
+    background-color: rgb(226, 226, 226);
+}
+
+.espacio4{
+    display: flex;
+    justify-content: left;
+    margin-left: 10px;
+}
+
+.Columna1{
+    float: left;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+.Columna2{
+    float: left;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
+.Capaci2{
+    clear:both;
+    height: 25px;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: red;
+}
+
+.DatosCapaci2{
+    column-count: 2;
+    height: 60px;
+    background-color: rgb(226, 226, 226);
+}
+
+.colum1{
+    width: 50%;
+    justify-content: left;
+    margin-left: 10px;
+}
+.colum2{
+    width: 50%;
+    justify-content: left;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+
